@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a full stack developer...
+I'm self-taught and interested in everything related to Video, Audio, Design and Web Programming. I am a Web Developer and i am open to new challenges. For any questions send me a message and I will respond as soon as possible.
 
 <table><tr><td valign="top" width="33%">
 
