@@ -4,7 +4,16 @@
 
 I'm self-taught and interested in everything related to Video, Audio, Design and Web Programming. I am a Web Developer and i am open to new challenges. For any questions send me a message and I will respond as soon as possible.
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
+
+## Proyects
+
+Gestion de Talleres de Reparacion de aparatos Electronicos
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+https://github.com/gfxargentina/taller-gestion
+
+<table><tr><td valign="top" width="50%">
 
 ## Proyects
 
