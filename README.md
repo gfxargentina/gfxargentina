@@ -18,10 +18,12 @@ https://github.com/gfxargentina/taller-gestion
         	    <img src="img/https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
       	    </td> -->
             <td style="padding:10px">
+            <h2>Management of repair workshops for electronic devices </h2>
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
                 <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">View Repo</a>
             </td>
             <td style="padding:10px">
+            <h2>2 proyect title</h2>
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
                 <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">View Repo</a>
             </td>
