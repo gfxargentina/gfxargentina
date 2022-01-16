@@ -13,7 +13,7 @@ I'm self-taught and interested in everything related to Video, Audio, Design and
         	    <img src="img/https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
       	    </td> -->
             <td style="padding:10px">
-            <h2>Management of repair workshops for electronic devices </h2>
+            <h2>Electronics Repair Shop</h2>
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
                 <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">View Repo</a>
             </td>
