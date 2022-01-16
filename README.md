@@ -6,11 +6,6 @@ I'm self-taught and interested in everything related to Video, Audio, Design and
 
 ## Proyects
 
-Gestion de Talleres de Reparacion de aparatos Electronicos
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-https://github.com/gfxargentina/taller-gestion
-
 <div id="image-table">
     <table>
 	    <tr>
