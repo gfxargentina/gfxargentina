@@ -14,11 +14,11 @@ https://github.com/gfxargentina/taller-gestion
 <div id="image-table">
     <table>
 	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="img/https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="200"/>
-      	    </td>
+    	    <!-- <td style="padding:10px">
+        	    <img src="img/https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
+      	    </td> -->
             <td style="padding:10px">
-            	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="300"/>
+            	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
             </td>
             <td style="padding:10px">
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
