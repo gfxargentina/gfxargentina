@@ -16,10 +16,9 @@ I'm self-taught and interested in everything related to Video, Audio, Design and
             	<img src="./img/proyect-1.jpg" width="400"/>
                 <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">View Repo</a>
             </td>
-            <td style="padding:10px">
-            <h2>2 proyect title</h2>
-            	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
-                <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">View Repo</a>
+            <td style="padding:10px">            
+            	<img src="./img/proyect-2.jpg" width="400"/>
+                <a href="https://github.com/gfxargentina/chapobank" target="_blank" rel="noopener noreferrer">View Repo</a>
             </td>
         </tr>
     </table>
