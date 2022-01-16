@@ -19,6 +19,7 @@ https://github.com/gfxargentina/taller-gestion
       	    </td> -->
             <td style="padding:10px">
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
+                <a href="https://github.com/gfxargentina/taller-gestion" target="_blank" rel="noopener noreferrer">Repo</a>
             </td>
             <td style="padding:10px">
             	<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width="400"/>
