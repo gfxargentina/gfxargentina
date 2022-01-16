@@ -24,7 +24,7 @@ I'm self-taught and interested in everything related to Video, Audio, Design and
     </table>
 </div>
 
-## 🛠 Skills
+## 🛠 Knowledge of
 
 | Javascript | HTML 5 | Bootstrap 4 | React | CSS | NodeJS | Express | TailwindCSS | MongoDB | NextJS | GraphQL | ApolloGraphQL | Git | Github | Adobe After Effects | Adobe Photoshop | Adobe Illustrator | Sound Forge |
 
