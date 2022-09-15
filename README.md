@@ -26,7 +26,7 @@ I'm self-taught and interested in everything related to Video, Audio, Design and
 
 ## 🛠 Knowledge of
 
-| Javascript | HTML 5 | Bootstrap 4 | React | CSS | NodeJS | Express | TailwindCSS | MongoDB | NextJS | Git | Github | Adobe After Effects
+| Javascript | HTML 5 | CSS | React | NodeJS | Express | TailwindCSS | MongoDB | NextJS | Git | Github | Adobe After Effects
 
 ## 🔗 Links
 
