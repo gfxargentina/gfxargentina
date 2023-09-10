@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm self-taught and interested in everything related to Video, Audio, Design and Web Programming. I am a Web Developer and i am open to new challenges. For any questions send me a message and I will respond as soon as possible.
+I am self-taught and have a keen interest in everything related to video, audio, design, and web programming. Currently, I work in video editing and motion graphics and i am actively seeking my first job as a programmer. I am always open to new challenges. If you have any questions or opportunities, please feel free to send me a message, and I will respond as soon as possible.
 
 ## Proyects
 
